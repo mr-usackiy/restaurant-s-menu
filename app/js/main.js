@@ -194,7 +194,6 @@ window.onload = function () {
     var number_item_3 = document.getElementsByClassName('item3').length
     var number_item_4 = document.getElementsByClassName('item4').length
     var number_item_6 = document.getElementsByClassName('item6').length
-    console.log(number_item_4);
 
     //item_3
     scroll_next3.addEventListener("click", function (event) {
